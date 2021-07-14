@@ -1,0 +1,8 @@
+{
+	"email": "tesme@teste.com",
+	"nomePessoa": "TESTANDO NOME PESSOA",
+	"dataNascimento": "1986-05-01 00:00:00",
+	"sexo": 1,
+	"aceitatermos": true,
+	"descricao": "teste"
+}

@@ -1,0 +1,11 @@
+{
+	"idLogin": 1,
+	"idPessoa": 1,
+	"tituloAnuncio": "Banho e tosa",
+	"exibirData": "2015-08-22 00:00:00",
+	"ativo": 1,
+	"nivelPrioridade" : 1,
+	"descricao": "Novo anuncio",
+	"telefone": "9898989",
+	"emailContato": "testando@teste.com"
+}
